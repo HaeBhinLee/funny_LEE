@@ -1,3 +1,4 @@
 detail page
 1. short
 2. long
+3. mid
